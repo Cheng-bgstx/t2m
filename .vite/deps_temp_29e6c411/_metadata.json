@@ -1,0 +1,43 @@
+{
+  "hash": "557b808d",
+  "configHash": "c4b2382c",
+  "lockfileHash": "08b4b8d8",
+  "browserHash": "ba341bc2",
+  "optimized": {
+    "mujoco-js": {
+      "src": "../../node_modules/mujoco-js/dist/mujoco_wasm.js",
+      "file": "mujoco-js.js",
+      "fileHash": "7af87360",
+      "needsInterop": false
+    },
+    "three": {
+      "src": "../../node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "47448c54",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls.js": {
+      "src": "../../node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls__js.js",
+      "fileHash": "412bec6e",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "c3ddd384",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UBZSK7WD": {
+      "file": "chunk-UBZSK7WD.js"
+    },
+    "module-JYKQ77FC": {
+      "file": "module-JYKQ77FC.js"
+    },
+    "chunk-JVWSFFO4": {
+      "file": "chunk-JVWSFFO4.js"
+    }
+  }
+}
